@@ -4,6 +4,8 @@
   <remote  name="aosp"
            fetch="https://android.googlesource.com/"
            review="https://android-review.googlesource.com/" />
+  <remote  name="chains"
+           fetch="https://github.com/ChainsDD/" />
   <default revision="master"
            remote="aosp"
            sync-j="4" />
@@ -14,5 +16,8 @@
   <project path="frameworks/base" name="platform/frameworks/base" />
   <project path="system/extras" name="platform/system/extras" />
   <project path="packages/providers/ContactsProvider" name="platform/packages/providers/ContactsProvider" />
+
+  <project path="packages/apps/Superuser" name="Superuser" />
+  <project path="system/su" name="su-binary" />
 
 </manifest>
