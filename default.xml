@@ -17,6 +17,7 @@
   <project path="frameworks/base" name="platform/frameworks/base" />
   <project path="system/extras" name="platform/system/extras" />
   <project path="packages/providers/ContactsProvider" name="platform/packages/providers/ContactsProvider" />
+  <project path="packages/apps/Launcher2" name="platform/packages/apps/Launcher2" />
   <project path="packages/apps/Settings" name="platform/packages/apps/Settings" />
   <project path="system/core" name="platform/system/core" />
 
