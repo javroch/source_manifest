@@ -14,7 +14,7 @@
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
   <project path="development" name="platform/development" />
-  <project path="device/samsung/toro" name="platform/device/samsung/toro" />
+  <project path="device/samsung/toro" name="device/samsung/toro" />
   <project path="frameworks/base" name="platform/frameworks/base" />
   <project path="system/extras" name="platform/system/extras" />
   <project path="packages/providers/ContactsProvider" name="platform/packages/providers/ContactsProvider" />
